@@ -18,4 +18,4 @@ Table of contents
 ## 线性规划
 
 - [x] [单纯形法算法](https://zhuanlan.zhihu.com/p/388224103)
-- [ ] [背包问题与Branch and Bound 方法](https://zhuanlan.zhihu.com/p/72734494)https://zhuanlan.zhihu.com/p/72734494)
+- [ ] [背包问题与Branch and Bound方法](https://zhuanlan.zhihu.com/p/72734494)
