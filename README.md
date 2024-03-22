@@ -5,6 +5,7 @@ Table of contents
   * [运筹优化](#运筹优化)
     * [整数规划](#整数规划)
   * [广告算法](#广告算法)
+  * [网络](#网络)
 <!--te-->
 
 
@@ -25,4 +26,7 @@ Table of contents
 - [ ] [广告策略机制(4)：原始对偶匹配与分配问题](https://zhuanlan.zhihu.com/p/592381875)
 - [ ] [广告策略机制(5)：预算平滑](https://zhuanlan.zhihu.com/p/592972475)
 - [ ] [广告策略机制(6)：出价策略](https://mp.weixin.qq.com/s/XxYJYZ4VR5bQBYtJEtpQsw)
+
+## 网络
+- [ ] [DHCP：动态主机配置协议](https://info.support.huawei.com/info-finder/encyclopedia/zh/DHCP.html)
 
