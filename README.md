@@ -11,6 +11,8 @@ Table of contents
 
 - [x] [单纯形法算法](https://zhuanlan.zhihu.com/p/388224103)
 - [x] [对偶理论](https://zhuanlan.zhihu.com/p/522590887)
+- [ ] [列生成算法](https://zhuanlan.zhihu.com/p/663012759)
+- [ ] [列生成算法Python版实现](https://zhuanlan.zhihu.com/p/465048000)
 
 ## 广告算法
 
