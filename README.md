@@ -15,7 +15,7 @@ Table of contents
 - [ ] [列生成算法](https://zhuanlan.zhihu.com/p/663012759)
 
 ### 整数规划
-- [ ] [列生成算法Python版实现](https://zhuanlan.zhihu.com/p/465048000)
+- [ ] [列生成算法求解整数规划及实现](https://zhuanlan.zhihu.com/p/465048000)
 
 ## 广告算法
 
