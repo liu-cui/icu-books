@@ -3,6 +3,7 @@ Table of contents
 
 <!--ts-->
   * [运筹优化](#运筹优化)
+    * [整数规划](#整数规划)
   * [广告算法](#广告算法)
 <!--te-->
 
@@ -12,6 +13,8 @@ Table of contents
 - [x] [单纯形法算法](https://zhuanlan.zhihu.com/p/388224103)
 - [x] [对偶理论](https://zhuanlan.zhihu.com/p/522590887)
 - [ ] [列生成算法](https://zhuanlan.zhihu.com/p/663012759)
+
+### 整数规划
 - [ ] [列生成算法Python版实现](https://zhuanlan.zhihu.com/p/465048000)
 
 ## 广告算法
