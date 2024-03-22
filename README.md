@@ -15,7 +15,7 @@ Table of contents
 - [x] [对偶理论](https://zhuanlan.zhihu.com/p/522590887)
 - [ ] [列生成算法](https://zhuanlan.zhihu.com/p/663012759)
 - [ ] [列生成算法：数值案例](https://download.e-bookshelf.de/download/0000/0005/21/L-G-0000000521-0002368598.pdf)
-- [ ] [Benders Decomposition](file:///Users/liucui/Desktop/taskin_benders.pdf)
+- [ ] [Benders Decomposition]([file:///Users/liucui/Desktop/taskin_benders.pdf](https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMohamed_Mourad_Lafifi%2Fpost%2FCan_anybody_suggest_to_me_how_I_can_stop_process_of_bender_decomposition_algorithm_before_finishing_iteration%2Fattachment%2F59d6441779197b807799f6f0%2FAS%253A446886722183172%25401483557505995%2Fdownload%2FTaskin_Benders%2BDecomposition.pdf&psig=AOvVaw1Y2Opzp_2mcTGjNPvP5UHS&ust=1711173048913000&source=images&cd=vfe&opi=89978449&ved=0CAcQrpoMahcKEwjYzp3AloeFAxUAAAAAHQAAAAAQBA))
 
 ### 整数规划
 - [ ] [列生成算法求解整数规划及实现](https://zhuanlan.zhihu.com/p/465048000)
