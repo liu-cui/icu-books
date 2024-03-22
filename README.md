@@ -17,6 +17,8 @@ Table of contents
 
 ### 整数规划
 - [ ] [列生成算法求解整数规划及实现](https://zhuanlan.zhihu.com/p/465048000)
+- [ ] [A tutorial on column generation and branch-and-price
+for vehicle routing problems](https://sci-hub.st/https://link.springer.com/article/10.1007/s10288-010-0130-z#:~:text=407%E2%80%93424%20(2010).-,https%3A//doi.org/10.1007/s10288%2D010%2D0130%2Dz,-Download%20citation)
 
 ## 广告算法
 
